@@ -1,0 +1,8 @@
+1. Create a virtual environment called ".venv"
+    python3 -m venv .venv
+2. Activate the virtual environment 
+    source .venv/Scripts/Activate
+3. Install flask and flask-sqlalchemy 
+    pip3 install flask flask-sqlalchemy
+4. Create a file "app.py"
+5. 
